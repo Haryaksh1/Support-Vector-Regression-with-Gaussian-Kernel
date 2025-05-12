@@ -78,6 +78,9 @@ Interpretability: Visualizations provide clear insight into model fit and parame
 ## Usage
 Clone the repository and place the dataset CSV in the root directory.
 
+## License
+This project is proprietary material developed as a Course Assignment. All rights reserved.
+
 Run the provided MATLAB code to reproduce the results and visualizations.
 
 Review the presentation PDF for a detailed explanation of the methodology and findings.
